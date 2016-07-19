@@ -1,0 +1,21 @@
+G:\C#\POS Final\POS\bin\Debug\POS.exe
+G:\C#\POS Final\POS\bin\Debug\POS.pdb
+G:\C#\POS Final\POS\obj\x86\Debug\POS.Properties.Resources.resources
+G:\C#\POS Final\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+G:\C#\POS Final\POS\obj\x86\Debug\POS.exe
+G:\C#\POS Final\POS\obj\x86\Debug\POS.pdb
+G:\C#\POS Final\POS\obj\x86\Debug\POS.POS_System_Form2.resources
+G:\C#\POS Final\POS\bin\Debug\POS Database System.mdf
+G:\C#\POS Final\POS\bin\Debug\POS Database System_log.ldf
+G:\C#\POS Final\POS\bin\Debug\POS.exe.config
+G:\C#\POS Final\POS\obj\x86\Debug\POS.POS_System_Form3.resources
+G:\C#\POS Final\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+G:\C#\POS Final\POS\bin\Debug\BO.dll
+G:\C#\POS Final\POS\bin\Debug\BO.pdb
+G:\C#\POS Final\POS\obj\x86\Debug\POS.POS_Login_Form1.resources
+G:\C#\POS Final\POS\obj\x86\Debug\POS.Change_Password_Form4.resources
+G:\C#\POS Final\POS\obj\x86\Debug\POS.Print_Form5.resources
+G:\C#\POS Final\POS\bin\Debug\POS.exe.manifest
+G:\C#\POS Final\POS\bin\Debug\POS.application
+G:\C#\POS Final\POS\obj\x86\Debug\POS.exe.manifest
+G:\C#\POS Final\POS\obj\x86\Debug\POS.application

@@ -1,0 +1,5 @@
+G:\C#\POS Final\BO\bin\Debug\BO.dll
+G:\C#\POS Final\BO\bin\Debug\BO.pdb
+G:\C#\POS Final\BO\obj\Debug\BO.dll
+G:\C#\POS Final\BO\obj\Debug\BO.pdb
+G:\C#\POS Final\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
